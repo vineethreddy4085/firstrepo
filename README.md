@@ -1,3 +1,2 @@
 # firstrepo
-my first repo
-thankyou bye
+line1 in remote
